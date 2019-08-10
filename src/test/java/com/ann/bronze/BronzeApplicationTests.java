@@ -1,6 +1,6 @@
 package com.ann.bronze;
 
-import com.ann.bronze.easyExcel.ExcelService;
+import com.ann.bronze.easyexcel.ExcelService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

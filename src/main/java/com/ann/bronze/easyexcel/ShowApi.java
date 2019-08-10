@@ -1,4 +1,4 @@
-package com.ann.bronze.easyExcel;
+package com.ann.bronze.easyexcel;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

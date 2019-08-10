@@ -1,4 +1,4 @@
-package com.ann.bronze.easyExcel;
+package com.ann.bronze.easyexcel;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -14,6 +14,7 @@ public interface ExcelService {
     /**
      * 读取excel内容
      * @throws IOException
+     * @return
      */
     List<BookModel> readExcel() throws IOException;
 
